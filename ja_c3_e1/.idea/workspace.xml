@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c2734c3-95e5-47ef-b396-4aba49f1953a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ja_c1_e1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ja_c1_e1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ja_c1_e1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ja_c1_e1/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7b874c9-9662-4ead-9577-6316dcfd2dc3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +15,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1wFgCbPjvrbkPM2GYWZbL7scCGK" />
+  <component name="ProjectId" id="1wLHZe5JNTmJfMwnsUYZqHZ5FkQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,33 +28,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ja_c1_e3" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ja_c1_e2" />
-      <option name="VM_PARAMETERS" value="-Xmx2G -Xms1G" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4c2734c3-95e5-47ef-b396-4aba49f1953a" name="Default Changelist" comment="" />
-      <created>1628059625872</created>
+      <changelist id="b7b874c9-9662-4ead-9577-6316dcfd2dc3" name="Default Changelist" comment="" />
+      <created>1628231009188</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1628059625872</updated>
-      <workItem from="1628059627148" duration="3504000" />
-      <workItem from="1628237693432" duration="13000" />
+      <updated>1628231009188</updated>
+      <workItem from="1628231011885" duration="2558000" />
     </task>
     <servers />
   </component>
@@ -74,6 +67,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
